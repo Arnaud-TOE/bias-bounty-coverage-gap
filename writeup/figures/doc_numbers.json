@@ -1,0 +1,66 @@
+{
+ "moments": {
+  "m_public": 0.059806,
+  "s_public": 0.089022,
+  "m_private": 0.059915,
+  "s_private": 0.089342
+ },
+ "correlations": {
+  "corr_rho_pub_priv": 0.9874,
+  "rho_diff_sd": 0.0306,
+  "rho_diff_mean": -0.0059,
+  "n_signals": 73
+ },
+ "pub_priv_rank_corr": 0.9408,
+ "mean_priv_minus_pub": 0.00038,
+ "f2_mean_by_region": {
+  "eastern-ok": 0.1268,
+  "eastern-wa": 0.0764,
+  "maricopa-az": 0.044,
+  "northern-ca": 0.0679,
+  "south-central-tx": 0.0509
+ },
+ "f2_expected": 0.054996,
+ "family_alone": {
+  "transport (17)": 0.06154,
+  "fire stations (15)": 0.08041,
+  "establishments and places (10)": 0.0846,
+  "composite and its edges (3)": 0.07777,
+  "road history, EMS, schools, burns (5)": 0.08694,
+  "strata and region offsets (5)": 0.08145,
+  "buildings (6)": 0.0839
+ },
+ "family_cost": {
+  "transport (17)": 0.01223,
+  "fire stations (15)": 0.00266,
+  "establishments and places (10)": 0.00196,
+  "composite and its edges (3)": 0.00078,
+  "road history, EMS, schools, burns (5)": 0.00029,
+  "strata and region offsets (5)": 0.00019,
+  "buildings (6)": 0.00018
+ },
+ "scorecard_f2": {
+  "rural_urban": 2.25,
+  "tribal": 2.709,
+  "svi_q4_over_q1": 1.265,
+  "cvi_q4_over_q1": 1.591,
+  "wildfire_q4_over_q1": 2.028,
+  "heat_q4_over_q1": 0.507,
+  "drought_q4_over_q1": 0.845,
+  "rural_urban_within_region": {
+   "eastern-ok": 1.884,
+   "maricopa-az": 3.501,
+   "northern-ca": 1.807,
+   "south-central-tx": 1.829
+  },
+  "rural_tracts_by_region": {
+   "south-central-tx": 0.535,
+   "eastern-ok": 0.222,
+   "maricopa-az": 0.088,
+   "northern-ca": 0.079,
+   "eastern-wa": 0.076
+  },
+  "f2_sd": 0.0691,
+  "f2_share_ge_0_8": 0.0002
+ }
+}

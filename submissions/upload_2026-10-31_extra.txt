@@ -1,0 +1,4 @@
+Envoi supplémentaire, seulement si Zindi l'accepte avant la clôture (23 h 29, heure du Maroc) :
+1. f5_blend_ridge002.csv  (WEAK et s07/s22 exclus, ridge 0,02 ; public attendu ≈ 0,0568 vu le score de f2, privé ≈ 0,057)
+Sélection ensuite : f2 + f5 (à la place de s111), par la page …/submissions?sort=score : décocher s111, cocher f5,
+« Save your new selection », puis recharger les 4 pages et vérifier que seuls f2 et f5 sont cochés.

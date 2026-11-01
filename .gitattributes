@@ -1,0 +1,3 @@
+* text=auto
+submissions/** -text
+data/MANIFEST.sha256 -text

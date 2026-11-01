@@ -1,0 +1,5 @@
+1. s146_t7lf_c_transport_delta.csv   (envoyé, 0.088508525)
+2. s142_t10s_c_transport_delta.csv   (envoyé, 0.088945322)
+3. s147_t7linv_c_transport_delta.csv (envoyé, 0.085784883)
+4. s150_t9lfi_p_score_ge30_delta.csv (remplace s149 : bord du transport de s146 + s147)
+(puis une seule finale : f2_blend_ridge0005_with_s07_s22.csv ; sélection : f2 et s111)
